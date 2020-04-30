@@ -1,0 +1,16 @@
+.Active {
+	position: relative;
+	text-align: left;
+	margin-top: 20%;
+	font-size: 14px;
+	color: #666666;
+}
+.Active li {
+	list-style: none;
+	border: 1px solid black;
+	border-radius: 5px;
+	margin-top: 1%;
+}
+.Active li:hover {
+	cursor: pointer;
+}

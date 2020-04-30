@@ -1,0 +1,10 @@
+.All {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	width: 1000px;
+	height: 1000px;
+	background: linear-gradient(to top, #47ffaf, #b0f5f1);
+	margin-left: 10%;
+}

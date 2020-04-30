@@ -1,0 +1,59 @@
+.probir {
+	
+}
+.butt {
+	width: 120px;
+	height: 40px;
+	border: none;
+	border-radius: 25px;
+	background-color: orange;
+	color: white;
+	font-weight: 700;
+	box-shadow: 0px 1px 5px orange;
+	margin-top: 43.5%;
+	margin-left: -5%;
+}
+.butt:hover {
+	cursor: pointer;
+}
+.butt:focus {
+	outline: none;
+}
+.menu {
+	position: relative;
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	width: 400px;
+	height: 600px;
+	background-color: blue;
+	border-radius: 15px;
+	transform: translateX(-900px);
+	margin-top: 30%;	
+	margin-left: -3%;
+}
+.menu_active {
+	position: relative;
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	width: 400px;
+	height: 600px;
+	background-color: blue;
+	border-radius: 15px;
+	transition: 0.3s ease-in;
+	transform: translateX(0px);
+	box-shadow: 0px 3px 7px 3px grey;	
+	margin-top: 30%;	
+	margin-left: -3%;
+}
+.menu_active a {
+	color: white;
+	text-decoration: none;
+	font-size: 24px;
+	font-weight: 900;
+	margin-top: 10%;
+}
+.menu_active a:active {
+	color: red;
+}
