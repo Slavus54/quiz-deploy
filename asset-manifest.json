@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/quiz-deploy/static/css/main.d69f238d.chunk.css",
+    "main.js": "/quiz-deploy/static/js/main.0a2b5fbc.chunk.js",
+    "main.js.map": "/quiz-deploy/static/js/main.0a2b5fbc.chunk.js.map",
+    "runtime-main.js": "/quiz-deploy/static/js/runtime-main.76ce8cbe.js",
+    "runtime-main.js.map": "/quiz-deploy/static/js/runtime-main.76ce8cbe.js.map",
+    "static/js/2.fb8053f4.chunk.js": "/quiz-deploy/static/js/2.fb8053f4.chunk.js",
+    "static/js/2.fb8053f4.chunk.js.map": "/quiz-deploy/static/js/2.fb8053f4.chunk.js.map",
+    "index.html": "/quiz-deploy/index.html",
+    "precache-manifest.fbcc5447437f16a1c690278f0789ea69.js": "/quiz-deploy/precache-manifest.fbcc5447437f16a1c690278f0789ea69.js",
+    "service-worker.js": "/quiz-deploy/service-worker.js",
+    "static/css/main.d69f238d.chunk.css.map": "/quiz-deploy/static/css/main.d69f238d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76ce8cbe.js",
+    "static/js/2.fb8053f4.chunk.js",
+    "static/css/main.d69f238d.chunk.css",
+    "static/js/main.0a2b5fbc.chunk.js"
+  ]
+}
