@@ -4,7 +4,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "gh-pages": "^2.2.0",
     "git": "^0.1.5",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
@@ -15,7 +14,7 @@
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
-    "deploy": "gh-pages -d build",
+    "deploy": "npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -35,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+    "devDependencies": {
+      "gh-pages": "^2.2.0"
+    }
 }
